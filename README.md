@@ -4,9 +4,9 @@ Blockchain trilema in radar chart
 
 # Goal
 
-The increasing variety and quantity of distributed ledger technology make blockchain selection and adoption more time consuming.
-The creator of this project tries to find a universal metric to compare common blockchain attributes in this case Scalability, Decentralization, and Security also known as the blockchain trilemma.
-With these 3 key attributes creators try to rank and/or quantified these metrics as much as possible knowing that these metrics are far from perfect but at least give us some high-level comparison between vastly different technology and design philosophy system. 
+The increasing variety and quantity of distributed ledger technology make blockchain selection and adoption more time consuming.<br/>
+The creator of this project tries to find a universal metric to compare common blockchain attributes in this case Scalability, Decentralization, and Security also known as the blockchain trilemma.<br/>
+With these 3 key attributes creators try to rank and/or quantified these metrics as much as possible knowing that these metrics are far from perfect but at least give us some high-level comparison between vastly different technology and design philosophy system. <br/>
 With that create a visualization that will help distinguish different systems apart.
 
 # Evaluation criteria
@@ -16,7 +16,7 @@ With that create a visualization that will help distinguish different systems ap
 ### Scores
 Scores range from 1 to 5, anything less than 1 is not permitted to create a centerline at 3.
 ### Scalability
-Scalability analysis using relative comparison with prior data.
+Scalability analysis using relative comparison with prior data.<br/>
 Scalability is defined as an ability to increase support more nodes, load, feature, Storage, and bandwidth without exponential incurring cost, latency, and no significant degradation in performance
 
 - Scalability score at 1 if the least performance nodes (the bottleneck)  have comparable scalability to Bitcoin in 2020
