@@ -13,23 +13,25 @@ With that create a visualization that will help distinguish different systems ap
 
 *NOTE All of this bias toward existing technology, the upperbound might not be future proof.*
 >TODO we gonna need some kind of ratio or coefficiant here later
+### Scores
 Scores range from 1 to 5, anything less than 1 is not permitted to create a centerline at 3.
-
+### Scalability
 Scalability analysis using relative comparison with prior data.
 Scalability is defined as an ability to increase support more nodes, load, feature, Storage, and bandwidth without exponential incurring cost, latency, and no significant degradation in performance
-Scalability score at 1 if the least performance nodes (the bottleneck)  have comparable scalability to Bitcoin in 2020
-Scalability score at 3 if the least performance nodes (the bottleneck) in the chain scale linearly with cost
-Scalability score at 5 if the chain scale-like BFT permissioned node
 
-QUESTION can we make this a percentage
+- Scalability score at 1 if the least performance nodes (the bottleneck)  have comparable scalability to Bitcoin in 2020
+- Scalability score at 3 if the least performance nodes (the bottleneck) in the chain scale linearly with cost
+- Scalability score at 5 if the chain scale-like BFT permissioned node
+### Security
+>QUESTION can we make this a percentage
 Security in terms of compromise for scalability and/or decentralization does not relate to software quality.
-Security score at 5 if chain requires more than 1/2 dishonest node to compromise both consistency and liveness of the network
-Security score at 4 if chain requires more than 1/2 dishonest node to compromise consistency or liveness of the network
-Security score at 3 if chain requires 1/3 dishonest node to compromise liveness of the network
-Security score at 2 if chain requires 1/3 dishonest node to compromise the consistency of the network
-Security score at 1 if chain requires 1/3 dishonest node to compromise both consistency and liveness of the network
-
+- Security score at 5 if chain requires more than 1/2 dishonest node to compromise both consistency and liveness of the network
+- Security score at 4 if chain requires more than 1/2 dishonest node to compromise consistency or liveness of the network
+- Security score at 3 if chain requires 1/3 dishonest node to compromise liveness of the network
+- Security score at 2 if chain requires 1/3 dishonest node to compromise the consistency of the network
+- Security score at 1 if chain requires 1/3 dishonest node to compromise both consistency and liveness of the network
+### Decentralize
 Network Consensus Provider (NCP) is a network participant that influences the consensus of the network
-Decentralize score at 1 if 100% NCP interest aligned
-Decentralize score at 3 if 50% of NCP interest aligned
-Decentralize score at 5 if 0% NCP interest aligned
+- Decentralize score at 1 if 100% NCP interest aligned
+- Decentralize score at 3 if 50% of NCP interest aligned
+- Decentralize score at 5 if 0% NCP interest aligned
