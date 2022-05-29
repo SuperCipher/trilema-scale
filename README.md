@@ -2,6 +2,10 @@
 
 Blockchain trilema in radar chart
 
+
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/6429197/170888404-fe992d2d-30d4-4391-927e-f4fb19f643b4.png">
+
+
 # Goal
 
 The increasing variety and quantity of distributed ledger technology make blockchain selection and adoption more time consuming.<br/>
