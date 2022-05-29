@@ -4,7 +4,7 @@ import {blockchainDataset} from "./datasets.js"
 
 const ctx = document.getElementById("RadarChart").getContext("2d");
 // Triscore
-// Blockchain trilema in radar chart
+// Blockchain trilemma in radar chart
 
 const config = {
   type: "radar",
@@ -20,7 +20,7 @@ const config = {
     },
     title: {
       display: true,
-      text: "Blockchain trilema in radar chart"
+      text: "Blockchain trilemma in radar chart"
     },
     scale: {
       angleLines: {
