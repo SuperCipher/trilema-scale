@@ -1,4 +1,4 @@
-# Trilema-scale
+# Trilemma-scale
 
 Blockchain trilemma in radar chart
 
